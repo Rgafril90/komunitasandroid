@@ -7,7 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        android:src="@drawable/Gambar_header_drawer" />
+        android:src="@drawable/gambar_header_drawer"/>
 
     <LinearLayout
         android:layout_width="match_parent"
